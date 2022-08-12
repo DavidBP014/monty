@@ -1,6 +1,6 @@
 /*
 * functions_1.c - File with helper functions.
-* Autor: Cristian Oliveros and Rodrigo Zárate A.
+* Autor: Juan Ballesteros
 * Date: September 20, 2021
 */
 
