@@ -1,6 +1,6 @@
 /*
 * error_handle.c - Mesage errors according code
-* Author: Cristian Oliveros and Rodrigo Zarate A.
+* Author: Juan Ballesteros
 * Date: September 20, 2021
 */
 
