@@ -1,6 +1,6 @@
 /*
 * file_parser.c - interpret monty opcodes
-* Autor: Cristian Oliveros and Rodrigo Zárate A.
+* Autor: Juan Ballesteros
 * Date: September 21, 2021
 */
 
